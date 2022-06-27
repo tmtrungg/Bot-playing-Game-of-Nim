@@ -1,4 +1,4 @@
-# Game of Nim
+# Create a bot that can play Game of Nim following optimal strategy
 
 ## Project overview
 Create a python virtual board of game of Nim and a python bot that can play the game versus human player (read more about the game here: https://en.wikipedia.org/wiki/Nim).
